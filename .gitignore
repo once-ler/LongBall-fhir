@@ -1,0 +1,9 @@
+**/log/
+**/bin/
+**/lib/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/build/
+**/internal/
